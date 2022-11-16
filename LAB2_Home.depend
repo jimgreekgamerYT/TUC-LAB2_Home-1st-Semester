@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665847570 source:c:\tuc\esp ( hry101 )\classes\lab2\lab2_home\main.c
+	<stdio.h>
+
+1666160557 source:c:\tuc\esp ( hry101 )\classes\lab2\lab2_home celsius\main.c
+	<stdio.h>
+
